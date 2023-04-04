@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main positive,negative,zero
+/**
+ * main - print negative, positive and zero.
  *
  * Return: Always 0
  *
