@@ -2,9 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/* more headers goes there */
-
-/* betty style doc for function main goes there
+/*
+ * main positive,negative,zero
  *
  * Return: Always 0
  *
