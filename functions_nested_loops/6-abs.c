@@ -3,21 +3,19 @@
 /**
  * _abs - to get the result in an absolute int
  *
- * @n: input number
+ * @a: input number
  *
  * Return: absolute value
  */
 
-int _abs(int n)
+int _abs(int a)
 {
-
-	if (n >= 0)
-
-		{
-			return (n);
-		}
+	if (a >= 0)
+	{
+		return (a);
+	}
 	else
-		{
-			return (n * -1);
-		}
+	{
+		return (a * -1);
+	}
 }
