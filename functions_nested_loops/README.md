@@ -1,1 +1,1 @@
-start learning nested,loops
+srart learning neste, loops by useing putchar function
