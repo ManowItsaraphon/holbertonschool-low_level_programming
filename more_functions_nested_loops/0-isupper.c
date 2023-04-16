@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isupper - check uppercase 
+ * _isupper - check uppercase
  * @c: input char
  * Return: 1 if c is uppercase otherwise 0
  *
@@ -10,12 +10,12 @@
 int _isupper(int c)
 
 {
-	if (c >= 97 && c <= 122)
+	if (c >= 65 && c <= 90)
 	{
-		return (0);
+		return (1);
 	}
 	else
 	{
-		return (1);
+		return (0);
 	}
 }
